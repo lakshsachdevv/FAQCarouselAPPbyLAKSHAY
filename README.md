@@ -22,9 +22,7 @@ A simple, clean iOS application built using **SwiftUI** and **MVVM architecture*
 - URLSession for API call
 - Codable for JSON parsing
 
-## 📸 Screenshots
 
-> Add screenshots here if you have them!
 
 ## 📡 API Used
 
@@ -56,20 +54,7 @@ FAQApp/
 - **"rail"** → used to populate the horizontal carousel.
 - **"railPageFaqs"** → used to populate the vertical FAQ section.
 
-## 📁 Project Structure
 
-```bash
-FAQApp/
-├── Models/
-│   └── Rail.swift
-│   └── FAQ.swift
-├── ViewModels/
-│   └── FAQViewModel.swift
-├── Views/
-│   └── CarouselView.swift
-│   └── FAQListView.swift
-├── ContentView.swift
-└── FAQAppApp.swift (@main)
 
 ---
 
